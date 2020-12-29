@@ -60,7 +60,8 @@
     "sax": "~1.2.4",
     "stable": "^0.1.8",
     "unquote": "~1.1.1",
-    "util.promisify": "~1.0.0"
+    "util.promisify": "~1.0.0",
+    "squoosh-module": "^0.1.1"
   },
   "devDependencies": {
     "coveralls": "^3.0.7",
